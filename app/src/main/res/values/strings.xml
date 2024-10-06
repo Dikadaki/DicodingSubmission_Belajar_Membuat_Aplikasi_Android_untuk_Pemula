@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="fruit_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page">About</string>
+    <string name="my_name">DHIKA WILDAN NUR FIRDAUS</string>
+    <string name="my_email">dhika.wildan22@gmail.com</string>
+    <array name="my_photo">
+        <item>@drawable/pas_foto_dhika</item>
+    </array>
+
+    <string-array name="data_name">
+        <item>Apel</item>
+        <item>Anggur</item>
+        <item>Kiwi</item>
+        <item>Strawbey</item>
+        <item>Anggur</item>
+        <item>Naga</item>
+        <item>Lengkeng</item>
+        <item>Semangka</item>
+        <item>Melon</item>
+        <item>Pisang</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan siap dimakan, tetapi bisa juga kulitnya berwarna hijau atau kuning (sumber:wikipedia) </item>
+        <item>Anggur merupakan buah yang diolah dari telur buah berupa perdu merambat yang termasuk ke dalam keluarga Vitaceae.[1] Buah ini biasanya digunakan untuk membuat jus anggur, jelly, minuman anggur, minyak biji anggur dan kismis, atau dimakan langsung. (sumber:wikipedia)</item>
+        <item>Kiwi adalah spesies lain dari burung tidak dapat terbang yang endemik di Selandia Baru dari genus Apteryx (satu-satunya genus dalam famili Apterygidae). Dalam ukurannya yang seperti ayam domestik, kiwi adalah ratite hidup yang paling kecil. Seluruh spesies kiwi adalah spesies terancam. Kiwi juga merupakan simbol nasional Selandia Baru.</item>
+        <item>Fragaria (pengucapan bahasa Inggris: [frəˈɡeɪriə])[1] adalah genus tumbuhan berbunga dalam keluarga mawar, Rosaceae, yang dikenal secara umum dengan nama stroberi karena buahnya yang bisa dikonsumsi. Ada lebih dari 20 spesies dan banyak hibrida dan kultivarnya. Stroberi yang paling sering dibiakkan adalah stroberi kebun. (sumber:wikipedia)</item>
+        <item>Jeruk (bahasa Inggris: orange) adalah buah dari spesies citrus dalam famili Rutaceae. Istilah "jeruk" umumnya mengacu pada Citrus × sinensis[1] yang juga disebut jeruk manis dan Citrus aurantium yang disebut jeruk pahit.</item>
+        <item>Buah naga (Inggris: Pitaya) adalah buah dari beberapa jenis kaktus dari genus Hylocereus dan Selenicereus. Buah ini berasal dari Meksiko, Amerika Tengah dan Amerika Selatan namun sekarang juga dibudidayakan di negara-negara Asia seperti Taiwan, Vietnam, Filipina, Indonesia dan Malaysia. </item>
+        <item>Pohon lengkeng rata-rata dapat tumbuh mencapai ketinggian 30 meter hingga 40 meter. Diameter pohonnya dapat mencapai 80 cm.[3] Berdaun majemuk, dengan 2-4(-6) pasang anak daun, sebagian besar berbulu rapat pada bagian aksialnya. Tangkai daun 1–20 cm, tangkai anak daun 0,5-3,5 cm.</item>
+        <item>Semangka, tembikai[2], atau mendikai[2] (Citrullus lanatus, suku ketimun-ketimunan atau Cucurbitaceae) adalah tanaman merambat yang berasal dari daerah setengah gurun di Afrika bagian selatan.</item>
+        <item>Melon (Cucumis melo L.)[1] atau kerahi merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam suku labu-labuan atau Cucurbitaceae. Buahnya bisa dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah (mesokarp). </item>
+        <item>Pisang adalah nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai. Batang pisang bersifat lunak karena terbentuk dari lapisan pelepah yang lunak dan panjang.[1] Batang yang agak keras berada di bagian permukaan tanah. Pisang memiliki daun bertangkai yang berpencar dengan bagian batang yang meruncing.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/apples</item>
+        <item>@drawable/grapes</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/stroberi</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/naga</item>
+        <item>@drawable/lengkeng</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/melon</item>
+        <item>@drawable/bananas</item>
+    </integer-array>
+</resources>
